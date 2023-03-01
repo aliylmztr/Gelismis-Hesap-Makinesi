@@ -1,12 +1,6 @@
-# Gelismis-Hesap-Makinesi
-Java Gelişmiş Hesap Makinesi
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     static void plus() {
         Scanner scan = new Scanner(System.in);
         int number, result = 0, i = 1;
